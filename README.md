@@ -6,3 +6,5 @@ changes for new commit from github
 changes in local machine
 git pull check for local machine from github
 git push check again
+new change for fetch
+changes for testing fetch
